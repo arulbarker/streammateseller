@@ -1,0 +1,79 @@
+{
+  "server_url": "supabase_backend",
+  "video_id": "LSaUUgnzpKQ",
+  "reply_mode": "Trigger",
+  "paket": "basic",
+  "user_data": {
+    "email": "mursalinasrul@gmail.com",
+    "last_login": "2025-08-16T09:29:13.843945"
+  },
+  "app_version": "v1.0.0-basic",
+  "last_update_check": 1755262043.4575105,
+  "trigger_words": [
+    "aga",
+    "master",
+    "ketua"
+  ],
+  "trigger_word": "",
+  "platform": "YouTube",
+  "cohost_cooldown": 2,
+  "viewer_cooldown_minutes": 1,
+  "overlay_settings": {
+    "bg_rgba": [
+      0,
+      0,
+      0,
+      128
+    ],
+    "text_color": "#FFFFFF",
+    "font_size": 14,
+    "position": "bottom-right",
+    "duration": 5,
+    "animation": "none",
+    "display_mode": "normal",
+    "width": 400,
+    "height": 100,
+    "auto_size": true,
+    "show_overlay": false
+  },
+  "tiktok_nickname": "@undeadbaron",
+  "selected_mic_index": 1,
+  "cohost_hotkey": "Ctrl+Shift+X",
+  "custom_context": "Kamu adalah gaming coach dan streamer expert MOBA sedang push rank menggunakan hero layla balas semua komentar dengan relevan dan tidak dengan balasan yang sama persis karaktermu - Sangat knowledgeable tentang meta, build, strategy - Kasual tapi informatif, suka sharing tips praktis - Pakai bahasa gaul gaming yang kekinian - Sering kasih analisis singkat tapi berguna - Bicarain hero favorit, build recommendation, gameplay tips - Responsif terhadap pertanyaan gaming teknis Contoh respon: \"Wah main Fanny ya! Buat build sekarang meta nya damage penetration dulu bro, war axe -> hunter strike -> malefic roar. Combo cable nya jangan lupa timing nya, drag dulu baru hook!\" Current context: Gaming streamer yang lagi main MOBA",
+  "enable_topic_blocking": false,
+  "cohost_max_queue": 4,
+  "tr_api_key": "trapi-dxNc3yHDuVuxU8VSO5PWwVm7",
+  "update_reminder_time": 1751192882.195746,
+  "topic_cooldown_minutes": 13,
+  "skipped_update_version": "",
+  "api_keys": {
+    "DEEPSEEK_API_KEY": "sk-ac21349468e94936960052f076b64af4",
+    "YOUTUBE_API_KEY": "AIzaSyA2pWsC4CF7ur16hRWiyu3SHlILe-G_jSY",
+    "TRAKTEER_API_KEY": "trapi-dxNc3yHDuVuxU8VSO5PWwVm7",
+    "TR_API_KEY": "trapi-dxNc3yHDuVuxU8VSO5PWwVm7"
+  },
+  "ipaymu": {
+    "api_key": "your_ipaymu_api_key",
+    "va": "your_ipaymu_va",
+    "sandbox": false,
+    "callback_url": "http://69.62.79.238:8000/api/payment/callback",
+    "return_url": "http://69.62.79.238:8000/api/payment/completed"
+  },
+  "environment": "production",
+  "debug_mode": false,
+  "safety_mode": true,
+  "ipaymu_config": {
+    "SANDBOX_MODE": "false",
+    "VA_NUMBER": "1179005157914468",
+    "API_KEY": "C3CF720D-8347-4EA3-8DC9-BAC2DEF046AC",
+    "NOTIFY_URL": "https://nivwxqojwljihoybzgkc.supabase.co/functions/v1/payment_callback",
+    "RETURN_URL": "https://nivwxqojwljihoybzgkc.supabase.co/functions/v1/payment_completed",
+    "CANCEL_URL": "https://nivwxqojwljihoybzgkc.supabase.co/functions/v1/payment_completed?status=canceled"
+  },
+  "reply_language": "English",
+  "cohost_voice_model": "id-ID-Standard-B",
+  "youtube_url": "https://www.youtube.com/watch?v=4tu0Q1LcsuY",
+  "backend_type": "supabase_only",
+  "vps_disabled": true,
+  "force_supabase": true
+}
