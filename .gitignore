@@ -1,0 +1,12 @@
+node_modules/
+venv311/
+*.db
+dist/
+build/
+temp/
+logs/
+releases/
+backups/
+.env
+*.log
+__pycache__/

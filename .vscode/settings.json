@@ -1,0 +1,33 @@
+{
+  "python.analysis.extraPaths": [
+    ".",
+    "./modules_client",
+    "./modules_server",
+    "./ui",
+    "./utils"
+  ],
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.stubPath": "./typings",
+  "python.analysis.include": [
+    "**/*.py"
+  ],
+  "python.analysis.exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "venv",
+    "venv311",
+    "**/thirdparty/**"
+  ],
+  "python.analysis.reportMissingImports": false,
+  "python.analysis.reportMissingModuleSource": false,
+  "python.analysis.reportAttributeAccessIssue": false,
+  "python.analysis.reportUnknownArgumentType": false,
+  "python.analysis.reportUnknownMemberType": false,
+  "python.analysis.reportUnknownVariableType": false,
+  "python.analysis.reportUnknownParameterType": false,
+  "python.analysis.reportMissingTypeStubs": false,
+  "python.defaultInterpreterPath": "./venv311/Scripts/python.exe"
+}
